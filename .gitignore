@@ -10,3 +10,5 @@ node_modules/
 # Ignore editor/IDE settings
 .vscode/
 .idea/
+
+data/images/
